@@ -1,3 +1,31 @@
-h1 {
-    font-family: Monaco;
+body {
+    background-image: url("http://www.hdwallpapersos.com/wp-content/uploads/2015/04/Abstract-Background-Wallpapers.jpg");
 }
+
+h1 {
+    font-family: fantasy;
+    text-align: center;
+}
+
+#header {
+    height: 100px;
+    width: 100%;
+    float: left;
+    background-color: mediumblue;
+}
+
+#navigation {
+    float: left;
+    background-color: snow;
+    opacity: 0.5;
+}
+
+#profile_photo {
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
