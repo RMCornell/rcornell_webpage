@@ -1,7 +1,6 @@
 body {
     background-image: url("images/philadelphia-skyline1.jpg");
     background-repeat: no-repeat;
-
 }
 
 #header {
@@ -27,6 +26,14 @@ li {
     padding: 20px;
     margin: auto;
     align-items: center;
+}
+
+.contact li {
+    font-size: 18px;
+    font-family: fantasy;
+    display: block;
+    padding: 10px;
+    text-align: center;
 }
 
 h1 {
